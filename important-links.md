@@ -8,3 +8,10 @@
 
 [Classes Supported by MobileNet](http://www.laurencemoroney.com/wp-content/uploads/2019/04/labels.txt)
 
+
+### Advanced Deployment Scenarios with TensorFlow
+
+[Install TensorFlow Serving](https://www.tensorflow.org/tfx/serving/setup)
+
+[Serving with Fashion MNIST](https://www.tensorflow.org/tfx/tutorials/serving/rest_simple)
+
