@@ -9,6 +9,13 @@
 [Classes Supported by MobileNet](http://www.laurencemoroney.com/wp-content/uploads/2019/04/labels.txt)
 
 
+### Device-based Models with TensorFlow Lite
+
+[GPU delegates](https://www.youtube.com/watch?v=QSbAUxWfxQw)
+
+[TensorFlow Lite and TensorFlow operator compatibility](https://www.tensorflow.org/lite/guide/ops_compatibility)
+
+
 ### Advanced Deployment Scenarios with TensorFlow
 
 [Install TensorFlow Serving](https://www.tensorflow.org/tfx/serving/setup)
