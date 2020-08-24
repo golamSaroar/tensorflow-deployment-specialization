@@ -15,6 +15,16 @@
 
 [TensorFlow Lite and TensorFlow operator compatibility](https://www.tensorflow.org/lite/guide/ops_compatibility)
 
+[Free Android courses](https://developer.android.com/courses)
+
+[TensorFlow Lite example apps](https://www.tensorflow.org/lite/examples/)
+
+[TensorFlow Lite for Swift](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/experimental/swift)
+
+[Suggested book: TinyML](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Micro-Controllers/dp/1492052043/ref=as_li_ss_tl?keywords=tensorflow+pete+warden&qid=1573077517&sr=8-2&linkCode=sl1&tag=ljpm-20&linkId=a821f70e976309936a5552f600025b88&language=en_US)
+
+[Detecting Crop Disease](https://www.youtube.com/watch?v=NlpS-DhayQA&feature=youtu.be)
+
 
 ### Advanced Deployment Scenarios with TensorFlow
 
