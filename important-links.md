@@ -15,3 +15,10 @@
 
 [Serving with Fashion MNIST](https://www.tensorflow.org/tfx/tutorials/serving/rest_simple)
 
+[Pre-trained Models at TensorFlow Hub](https://tfhub.dev/s?subtype=publisher)
+
+[Saved Model Example: Mobilenet](https://tfhub.dev/google/imagenet/mobilenet_v2_100_160/classification/4)
+
+[Pre-trained 128D Word Embeddings From TF Hub](https://tfhub.dev/google/tf2-preview/nnlm-en-dim128/1)
+
+[Introduction to Federated learning](https://colab.research.google.com/github/tensorflow/federated/blob/v0.11.0/docs/tutorials/custom_federated_algorithms_1.ipynb)
